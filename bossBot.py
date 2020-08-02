@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 token_bot = "NzM4MDA4MjI2NDU2NDA0MTAw.XyFpuA.LH4_YJFzXyrt5zL1-8nStOaEc7Q"
-server_id = 450632575485083648
+server_id = 4506325754850*****
 client = discord.Client()
 
 people_on_server = []
